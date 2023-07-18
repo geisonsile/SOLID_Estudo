@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class NPC_Enemy : NPC, IHittable
 {
     
-    public string text = "I deal 10 physical damage    ( •̀ᴗ•́ )و ̑̑ ";
+    public string text = "I deal 10 physical damage";
 
     public override void Interact()
     {

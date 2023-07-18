@@ -1,2 +1,2 @@
-# SOLID_Estudo
+# SOLID Estudo
  Estudo dos princípios do SOLID
